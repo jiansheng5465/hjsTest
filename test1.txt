@@ -1,11 +1,13 @@
 test
-
+<<<<<<< HEAD
+abcdedefg
+hijklmnop
+abcdedefg
+hijklmnop
+abcdedefg
+hijklmnop
+this is is this is is this is is
+=======
 this is my new code
 hahahahahha
-
-ianfoiawnfoaiwnfowefwoafnweoiafowaifaowfnawofnawofawfoawfwaf
-ianfoiawnfoaiwnfowefwoafnweoiafowaifaowfnawofnawofawfoawfwaf
-ianfoiawnfoaiwnfowefwoafnweoiafowaifaowfnawofnawofawfoawfwaf
-this is my new code
-hahahahahha
-
+>>>>>>> Update test1.txt
